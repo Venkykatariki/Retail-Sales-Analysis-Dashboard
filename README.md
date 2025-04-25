@@ -7,7 +7,7 @@ This project showcases a Power BI dashboard analyzing retail sales data, includi
 ## 📊 Power BI Dashboard
 
 Download the full Power BI file:  
-[🔗 Retail Sales Dashboard (.pbix)](https://github.com/Venkykatariki/Retail-Sales-Analysis-Dashboard/blob/main/Retail%20Sales%20Dashboard.pdf)
+[🔗 Retail Sales Dashboard (https://github.com/Venkykatariki/Retail-Sales-Analysis-Dashboard/blob/main/Retail%20Sales%20Dashbord.pbix)
 
 ![Retail Sales Dashboard](https://github.com/Venkykatariki/Retail-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-04-25%20194336.png)
 
